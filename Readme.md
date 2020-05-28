@@ -1,7 +1,7 @@
-# Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
+﻿# Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Мелешко](https://up.htmlacademy.ru/javascript/20/user/1454929).
-* Наставник: `Неизвестно`.
+* Наставник: Захар Овчаров.
 
 ---
 
